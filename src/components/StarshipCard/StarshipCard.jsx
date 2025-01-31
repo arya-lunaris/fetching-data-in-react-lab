@@ -7,7 +7,6 @@ const StarshipCard = ({ starship }) => {
         <p>Model: {starship.model}</p>
       </>
     );
-  }
+  };
   
   export default StarshipCard;
-
